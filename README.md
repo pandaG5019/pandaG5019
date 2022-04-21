@@ -25,8 +25,8 @@
 <img src="assets/php-logo.png" alt="PHP Logo" height=35 width=40><img src="assets/css-html-logo.png" alt="PHP Logo" height=35 width=40>
 
 ## Stats 🐼
-![Armen Deroian's Github Stats](https://github-readme-stats.vercel.app/api?username=pandaG5019&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+![Alex Githuh Stats](https://github-readme-stats.vercel.app/api?username=pandaG5019&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic5173&layout=compact&theme=radical)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Cosmic5173.Cosmic5173)
-![Followers](https://img.shields.io/github/followers/Cosmic5173?label=Followers&style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pandaG5019.pandaG5019)
+![Followers](https://img.shields.io/github/followers/pandaG5019label=Followers&style=social)
