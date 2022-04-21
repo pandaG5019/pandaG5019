@@ -29,4 +29,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandaG5019&layout=compact&theme=radical)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pandaG5019.pandaG5019)
-![Followers](https://img.shields.io/github/followers/pandaG5019label=Followers&style=social)
+![Followers](https://img.shields.io/github/followers/pandaG5019?label=Followers&style=social)
