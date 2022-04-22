@@ -12,6 +12,7 @@
 * [DISCORD](https://discord.com/users/670831469404618763)
 * [TWITTER](https://twitter.com/AlexWra30490350)
 * [COMMUNITY SERVER](https://discord.gg/6RpMF9T8XE)
+* [CODE CADEMY](https://www.codecademy.com/profiles/pandaG5019)
 * [WEBSITE](https://google.com/)
 * [EMAIL](mailto:alewray1070@gmail.com)
 
