@@ -19,8 +19,8 @@
 ***
 
 ## Current Project 👀❓
-### **SkyWarped Studios**
-> Started on the 10th of April 2022, SkyWarped Studios is a game development company dedicated to creating fun and intriguing games for all to play. Our goal is to continue updating and producing new state-of-the-art games that push the boundaries of what is thought to be impossible. Games, that can range from small, simple, 2D games to complex, 3D, multiplayer, world games.
+### **POT PLEX CLUB*
+> Started on the 27th of April (P.P.C) was founded and has since grown into a very large and well known network for minecraft bedrock as the servers foundation and main aspect is it's pvp servers.. Most notably it's practice server which has and will forever be it's main game mode and by far best server on the network.
 ***
 ## Languages I'm Learning 💖
 <img src="assets/php-logo.png" alt="PHP Logo" height=35 width=40> <img src="assets/CSS-logo.svg" alt="CSS Logo" height=35 width=40> <img src="assets/HTML-logo.svg" alt="HTML Logo" height=35 width=40>
