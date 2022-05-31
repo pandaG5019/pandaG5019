@@ -19,7 +19,7 @@
 ***
 
 ## Current Project 👀❓
-### **POT PLEX CLUB*
+### POT PLEX CLUB
 > Started on the 27th of April (P.P.C) was founded and has since grown into a very large and well known network for minecraft bedrock as the servers foundation and main aspect is it's pvp servers.. Most notably it's practice server which has and will forever be it's main game mode and by far best server on the network.
 ***
 ## Languages I'm Learning 💖
