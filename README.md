@@ -1,5 +1,5 @@
 # Alex Wray (pandaG5019) 👋😇
-### Before you contine to view my profile, please keep in mind I'm a student c# developer at this current time, Therefore, I ask you not judge me on my mistakes or inconsistencies, Rather you show support/inform me on how I may improve! - Thank You.
+### Before you continue to view my profile, please keep in mind I'm a student developer at this current time, Therefore, I ask you not judge me on my mistakes or inconsistencies, Rather you show support/inform me on how I may improve! - Thank You.
 
 ***
 
@@ -11,8 +11,8 @@
 ## My Socials 🧩🔍
 * [DISCORD](https://discord.com/users/670831469404618763)
 * [TWITTER](https://twitter.com/AlexWra30490350)
-* [COMMUNITY SERVER](https://discord.gg/6RpMF9T8XE)
-* [CODE CADEMY](https://www.codecademy.com/profiles/pandaG5019)
+* [COMMUNITY SERVER](https://discord.gg/7vqe64JWeX)
+* [CODE CADEMY](https://www.codecademy.com/profiles/HackMan5019)
 * [WEBSITE](https://google.com/)
 * [EMAIL](mailto:alewray1070@gmail.com)
 
