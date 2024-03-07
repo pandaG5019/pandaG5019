@@ -11,7 +11,7 @@
 ## My Socials 🧩🔍
 * [DISCORD](https://discord.com/users/670831469404618763)
 * [COMMUNITY SERVER](https://discord.gg/potplex)
-* EMAIL - Coming Soon!
+* [EMAIL](potplexclub@gmail.com)
 
 ***
 
